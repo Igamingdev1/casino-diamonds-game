@@ -1,4 +1,4 @@
-# Crash-Diamonds-Casinogame
+# Diamonds-Casinogame
  Casino Diamonds game (MERN Stack)
  
 <img  src="./diamonds1.png" />
